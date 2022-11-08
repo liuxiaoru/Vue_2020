@@ -11,6 +11,6 @@
         "vuex": "^2.0.0"
     },
     "devDependencies": {
-        "webpack": "^1.13.2"
+        "webpack": "^5.74.0"
     }
 }
